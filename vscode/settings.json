@@ -15,4 +15,9 @@
     "editor.stickyScroll.defaultModel": "indentationModel",
     "explorer.confirmDragAndDrop": false,
     "editor.tabSize": 2
+    "clangd.arguments": [
+        "--header-insertion=never",
+        "--compile-commands-dir=${workspaceFolder}/",
+        "--query-driver=**"
+    ]
 }
