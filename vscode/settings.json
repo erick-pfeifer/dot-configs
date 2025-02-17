@@ -1,6 +1,5 @@
 {
     "workbench.colorTheme": "Default Dark Modern",
-    "cmake.showOptionsMovedNotification": false,
     "window.zoomLevel": 2,
     "editor.rulers": [80],
     "workbench.colorCustomizations": {
@@ -9,7 +8,6 @@
     "editor.minimap.enabled": false,
     "editor.wordWrap": "on",
     "files.trimTrailingWhitespace": true,
-    "cmake.configureOnOpen": false,
     "notebook.stickyScroll.enabled": true,
     "editor.stickyScroll.enabled": true,
     "editor.stickyScroll.defaultModel": "indentationModel",
